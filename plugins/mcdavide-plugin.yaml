@@ -1,4 +1,4 @@
-image: immaginedavide:0.0.1
+image: entando6test/mcdavide:0.0.1-SNAPSHOT
 dbms: postgresql
 healthCheckPath: "/management/health"
 roles:
